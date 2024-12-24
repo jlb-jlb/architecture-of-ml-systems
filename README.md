@@ -14,10 +14,6 @@ This repository contains a convolutional neural network that is able to detect b
 
 1. Clone this repository to your local machine
 
-```bash
-git clone https://github.com/christianstubbe/architecture-of-ml-systems
-cd architecture-of-ml-systems
-```
 
 2. Create a virtual environment
 
